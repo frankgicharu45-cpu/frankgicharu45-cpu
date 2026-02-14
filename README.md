@@ -1,7 +1,7 @@
 # Hi, I'm francis gicharu
 
 ## About Me
-- I'm currently learning political science and public adninistration in the University of Nairobi.
+- I'm currently learning political science and public administration in the University of Nairobi.
 - I'm interested in your tech programm,that is computer programming to gain efficient and suitable skills to code.
 - I'm looking to collaborate with friendly projects with various programmers and web developers, into creating a communal friendly sites to share blogs and views.
 
