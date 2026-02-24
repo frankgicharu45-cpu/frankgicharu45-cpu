@@ -14,6 +14,6 @@
 
 ## How to Reach Me
 - Email: frankgicharu45@gmail.com
-- LinkedIn: [your LinkedIn profile link]
+- LinkedIn: [https://github.com/frankgicharu45-cpu]
 
 
